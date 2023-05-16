@@ -1,4 +1,4 @@
-Hola! Soy Pablo Aman, egresado en marketing y actualmente web developer trainee, en busqueda de mi primer experencia laboral en el rubro.
+Hola! Soy Pablo Aman, egresado en marketing y actualmente full stack developer.
 
 Me destaco por ser una persona motivada, creativa y muchas ganas de aprender constantemente.
 
@@ -6,4 +6,4 @@ Comencé a estudiar programación de manera autodidacta en los primeros días de
 
 Día a día sigo aprendiendo y sumando conocimiento en este genial y hermoso mundo de la programación.
 
-Habilidades y tecnologias que he aprendido: Html, Css, JavaScript, ReactJs, Bootstrap, Git, Github, Sass.
+Habilidades y tecnologias que he aprendido: Html, Css, JavaScript, ReactJs, Bootstrap, Git, Github, Sass, Reac Native, SQL, ExpressJs, Node.
