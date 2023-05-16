@@ -6,4 +6,6 @@ Comencé a estudiar programación de manera autodidacta en los primeros días de
 
 Día a día sigo aprendiendo y sumando conocimiento en este genial y hermoso mundo de la programación.
 
+Actualemente trabajando en Bernardo Lew e Hijos, como Full Stack Developer.
+
 Habilidades y tecnologias que he aprendido: Html, Css, JavaScript, ReactJs, Bootstrap, Git, Github, Sass, Reac Native, SQL, ExpressJs, Node.
